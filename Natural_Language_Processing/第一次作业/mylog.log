@@ -1,0 +1,1096 @@
+INFO:root:第10个iter：当前词表词数:4832
+INFO:root:第10个iter：最高频子词对('12', '月')
+INFO:root:第20个iter：当前词表词数:4842
+INFO:root:第20个iter：最高频子词对('国', '家')
+INFO:root:第30个iter：当前词表词数:4852
+INFO:root:第30个iter：最高频子词对('3', '0')
+INFO:root:第40个iter：当前词表词数:4862
+INFO:root:第40个iter：最高频子词对('第', '一')
+INFO:root:第50个iter：当前词表词数:4872
+INFO:root:第50个iter：最高频子词对('领', '导')
+INFO:root:第60个iter：当前词表词数:4882
+INFO:root:第60个iter：最高频子词对('经', '济')
+INFO:root:第70个iter：当前词表词数:4892
+INFO:root:第70个iter：最高频子词对('开', '始')
+INFO:root:第80个iter：当前词表词数:4902
+INFO:root:第80个iter：最高频子词对('的', '是')
+INFO:root:第90个iter：当前词表词数:4912
+INFO:root:第90个iter：最高频子词对('可', '能')
+INFO:root:第100个iter：当前词表词数:4922
+INFO:root:第100个iter：最高频子词对('系', '统')
+INFO:root:第110个iter：当前词表词数:4932
+INFO:root:第110个iter：最高频子词对('根', '据')
+INFO:root:第120个iter：当前词表词数:4942
+INFO:root:第120个iter：最高频子词对('很', '多')
+INFO:root:第130个iter：当前词表词数:4952
+INFO:root:第130个iter：最高频子词对('先', '生')
+INFO:root:第140个iter：当前词表词数:4961
+INFO:root:第140个iter：最高频子词对('地', '区')
+INFO:root:第150个iter：当前词表词数:4971
+INFO:root:第150个iter：最高频子词对('上', '午')
+INFO:root:第160个iter：当前词表词数:4981
+INFO:root:第160个iter：最高频子词对('实', '施')
+INFO:root:第170个iter：当前词表词数:4991
+INFO:root:第170个iter：最高频子词对('特', '别')
+INFO:root:第180个iter：当前词表词数:5001
+INFO:root:第180个iter：最高频子词对('一', '名')
+INFO:root:第190个iter：当前词表词数:5011
+INFO:root:第190个iter：最高频子词对('海', '南')
+INFO:root:第200个iter：当前词表词数:5020
+INFO:root:第200个iter：最高频子词对('关', '注')
+INFO:root:第210个iter：当前词表词数:5030
+INFO:root:第210个iter：最高频子词对('部', '分')
+INFO:root:第220个iter：当前词表词数:5040
+INFO:root:第220个iter：最高频子词对('最', '高')
+INFO:root:第230个iter：当前词表词数:5050
+INFO:root:第230个iter：最高频子词对('电', '话')
+INFO:root:第240个iter：当前词表词数:5060
+INFO:root:第240个iter：最高频子词对('不', '是')
+INFO:root:第250个iter：当前词表词数:5070
+INFO:root:第250个iter：最高频子词对('汉中', '市')
+INFO:root:第260个iter：当前词表词数:5080
+INFO:root:第260个iter：最高频子词对('最', '后')
+INFO:root:第270个iter：当前词表词数:5090
+INFO:root:第270个iter：最高频子词对('中', '共')
+INFO:root:第280个iter：当前词表词数:5100
+INFO:root:第280个iter：最高频子词对('指', '出')
+INFO:root:第290个iter：当前词表词数:5110
+INFO:root:第290个iter：最高频子词对('验证', '码')
+INFO:root:第300个iter：当前词表词数:5120
+INFO:root:第300个iter：最高频子词对('1', '3')
+INFO:root:第310个iter：当前词表词数:5130
+INFO:root:第310个iter：最高频子词对('行', '政')
+INFO:root:第320个iter：当前词表词数:5140
+INFO:root:第320个iter：最高频子词对('第', '二')
+INFO:root:第330个iter：当前词表词数:5150
+INFO:root:第330个iter：最高频子词对('或', '者')
+INFO:root:第340个iter：当前词表词数:5160
+INFO:root:第340个iter：最高频子词对('分', '钟')
+INFO:root:第350个iter：当前词表词数:5170
+INFO:root:第350个iter：最高频子词对('这', '种')
+INFO:root:第360个iter：当前词表词数:5180
+INFO:root:第360个iter：最高频子词对('民', '警')
+INFO:root:第370个iter：当前词表词数:5190
+INFO:root:第370个iter：最高频子词对('技', '术')
+INFO:root:第380个iter：当前词表词数:5200
+INFO:root:第380个iter：最高频子词对('务', '院')
+INFO:root:第390个iter：当前词表词数:5210
+INFO:root:第390个iter：最高频子词对('甚', '至')
+INFO:root:第400个iter：当前词表词数:5220
+INFO:root:第400个iter：最高频子词对('新', '的')
+INFO:root:第410个iter：当前词表词数:5230
+INFO:root:第410个iter：最高频子词对('1', '年')
+INFO:root:第420个iter：当前词表词数:5239
+INFO:root:第420个iter：最高频子词对('公', '开')
+INFO:root:第430个iter：当前词表词数:5249
+INFO:root:第430个iter：最高频子词对('起', '来')
+INFO:root:第440个iter：当前词表词数:5259
+INFO:root:第440个iter：最高频子词对('行', '动')
+INFO:root:第450个iter：当前词表词数:5269
+INFO:root:第450个iter：最高频子词对('生', '素')
+INFO:root:第460个iter：当前词表词数:5279
+INFO:root:第460个iter：最高频子词对('报道', '称')
+INFO:root:第470个iter：当前词表词数:5288
+INFO:root:第470个iter：最高频子词对('俄罗', '斯')
+INFO:root:第480个iter：当前词表词数:5298
+INFO:root:第480个iter：最高频子词对('1', '1')
+INFO:root:第490个iter：当前词表词数:5308
+INFO:root:第490个iter：最高频子词对('普', '查')
+INFO:root:第500个iter：当前词表词数:5318
+INFO:root:第500个iter：最高频子词对('军', '营')
+INFO:root:第510个iter：当前词表词数:5328
+INFO:root:第510个iter：最高频子词对('K', 'TV')
+INFO:root:第520个iter：当前词表词数:5338
+INFO:root:第520个iter：最高频子词对('派出', '所')
+INFO:root:第530个iter：当前词表词数:5348
+INFO:root:第530个iter：最高频子词对('据', '介绍')
+INFO:root:第540个iter：当前词表词数:5358
+INFO:root:第540个iter：最高频子词对('航', '母')
+INFO:root:第550个iter：当前词表词数:5368
+INFO:root:第550个iter：最高频子词对('努', '力')
+INFO:root:第560个iter：当前词表词数:5378
+INFO:root:第560个iter：最高频子词对('收', '视')
+INFO:root:第570个iter：当前词表词数:5388
+INFO:root:第570个iter：最高频子词对('民', '生')
+INFO:root:第580个iter：当前词表词数:5398
+INFO:root:第580个iter：最高频子词对('落', '实')
+INFO:root:第590个iter：当前词表词数:5408
+INFO:root:第590个iter：最高频子词对('每', '天')
+INFO:root:第600个iter：当前词表词数:5418
+INFO:root:第600个iter：最高频子词对('随', '着')
+INFO:root:第610个iter：当前词表词数:5428
+INFO:root:第610个iter：最高频子词对('来', '的')
+INFO:root:第620个iter：当前词表词数:5438
+INFO:root:第620个iter：最高频子词对('.', '0')
+INFO:root:第630个iter：当前词表词数:5448
+INFO:root:第630个iter：最高频子词对('通', '报')
+INFO:root:第640个iter：当前词表词数:5457
+INFO:root:第640个iter：最高频子词对('吸', '引')
+INFO:root:第650个iter：当前词表词数:5467
+INFO:root:第650个iter：最高频子词对('妈', '妈')
+INFO:root:第660个iter：当前词表词数:5476
+INFO:root:第660个iter：最高频子词对('下', '的')
+INFO:root:第670个iter：当前词表词数:5486
+INFO:root:第670个iter：最高频子词对('就', '会')
+INFO:root:第680个iter：当前词表词数:5496
+INFO:root:第680个iter：最高频子词对('形', '成')
+INFO:root:第690个iter：当前词表词数:5506
+INFO:root:第690个iter：最高频子词对('还', '会')
+INFO:root:第700个iter：当前词表词数:5516
+INFO:root:第700个iter：最高频子词对('引', '发')
+INFO:root:第710个iter：当前词表词数:5526
+INFO:root:第710个iter：最高频子词对('运', '动')
+INFO:root:第720个iter：当前词表词数:5536
+INFO:root:第720个iter：最高频子词对('战', '争')
+INFO:root:第730个iter：当前词表词数:5546
+INFO:root:第730个iter：最高频子词对('证', '件')
+INFO:root:第740个iter：当前词表词数:5556
+INFO:root:第740个iter：最高频子词对('专', '业')
+INFO:root:第750个iter：当前词表词数:5566
+INFO:root:第750个iter：最高频子词对('以', '后')
+INFO:root:第760个iter：当前词表词数:5576
+INFO:root:第760个iter：最高频子词对('规', '划')
+INFO:root:第770个iter：当前词表词数:5586
+INFO:root:第770个iter：最高频子词对('联', '系')
+INFO:root:第780个iter：当前词表词数:5596
+INFO:root:第780个iter：最高频子词对('媒体', '报道')
+INFO:root:第790个iter：当前词表词数:5606
+INFO:root:第790个iter：最高频子词对('机', '制')
+INFO:root:第800个iter：当前词表词数:5616
+INFO:root:第800个iter：最高频子词对('开', '展')
+INFO:root:第810个iter：当前词表词数:5626
+INFO:root:第810个iter：最高频子词对('男', '性')
+INFO:root:第820个iter：当前词表词数:5636
+INFO:root:第820个iter：最高频子词对('宣', '传')
+INFO:root:第830个iter：当前词表词数:5646
+INFO:root:第830个iter：最高频子词对('娱', '乐')
+INFO:root:第840个iter：当前词表词数:5655
+INFO:root:第840个iter：最高频子词对('系', '列')
+INFO:root:第850个iter：当前词表词数:5665
+INFO:root:第850个iter：最高频子词对('纷', '纷')
+INFO:root:第860个iter：当前词表词数:5674
+INFO:root:第860个iter：最高频子词对('天', '龙')
+INFO:root:第870个iter：当前词表词数:5682
+INFO:root:第870个iter：最高频子词对('2', '3')
+INFO:root:第880个iter：当前词表词数:5692
+INFO:root:第880个iter：最高频子词对('20', '00')
+INFO:root:第890个iter：当前词表词数:5702
+INFO:root:第890个iter：最高频子词对('表示', ':')
+INFO:root:第900个iter：当前词表词数:5712
+INFO:root:第900个iter：最高频子词对('性', '早')
+INFO:root:第910个iter：当前词表词数:5722
+INFO:root:第910个iter：最高频子词对('图', '片')
+INFO:root:第920个iter：当前词表词数:5732
+INFO:root:第920个iter：最高频子词对('路', '上')
+INFO:root:第930个iter：当前词表词数:5742
+INFO:root:第930个iter：最高频子词对('父', '亲')
+INFO:root:第940个iter：当前词表词数:5752
+INFO:root:第940个iter：最高频子词对('具', '有')
+INFO:root:第950个iter：当前词表词数:5761
+INFO:root:第950个iter：最高频子词对('事', '项')
+INFO:root:第960个iter：当前词表词数:5771
+INFO:root:第960个iter：最高频子词对('快', '乐')
+INFO:root:第970个iter：当前词表词数:5781
+INFO:root:第970个iter：最高频子词对('压', '力')
+INFO:root:第980个iter：当前词表词数:5791
+INFO:root:第980个iter：最高频子词对('东', '北')
+INFO:root:第990个iter：当前词表词数:5801
+INFO:root:第990个iter：最高频子词对('记者', '了解到')
+INFO:root:第1000个iter：当前词表词数:5811
+INFO:root:第1000个iter：最高频子词对('鸡', '蛋')
+INFO:root:第1010个iter：当前词表词数:5821
+INFO:root:第1010个iter：最高频子词对('完', '善')
+INFO:root:第1020个iter：当前词表词数:5831
+INFO:root:第1020个iter：最高频子词对('一', '下')
+INFO:root:第1030个iter：当前词表词数:5841
+INFO:root:第1030个iter：最高频子词对('费', '用')
+INFO:root:第1040个iter：当前词表词数:5851
+INFO:root:第1040个iter：最高频子词对('吸', '收')
+INFO:root:第1050个iter：当前词表词数:5861
+INFO:root:第1050个iter：最高频子词对('开', '发')
+INFO:root:第1060个iter：当前词表词数:5871
+INFO:root:第1060个iter：最高频子词对('当地', '时间')
+INFO:root:第1070个iter：当前词表词数:5881
+INFO:root:第1070个iter：最高频子词对('美', '好')
+INFO:root:第1080个iter：当前词表词数:5890
+INFO:root:第1080个iter：最高频子词对('委员', '会')
+INFO:root:第1090个iter：当前词表词数:5900
+INFO:root:第1090个iter：最高频子词对('直升', '机')
+INFO:root:第1100个iter：当前词表词数:5909
+INFO:root:第1100个iter：最高频子词对('当事', '人')
+INFO:root:第1110个iter：当前词表词数:5919
+INFO:root:第1110个iter：最高频子词对('资料', '图')
+INFO:root:第1120个iter：当前词表词数:5929
+INFO:root:第1120个iter：最高频子词对('复', '杂')
+INFO:root:第1130个iter：当前词表词数:5939
+INFO:root:第1130个iter：最高频子词对('一', '大')
+INFO:root:第1140个iter：当前词表词数:5949
+INFO:root:第1140个iter：最高频子词对('偶', '遇')
+INFO:root:第1150个iter：当前词表词数:5959
+INFO:root:第1150个iter：最高频子词对('凌', '晨')
+INFO:root:第1160个iter：当前词表词数:5969
+INFO:root:第1160个iter：最高频子词对('面', '对')
+INFO:root:第1170个iter：当前词表词数:5979
+INFO:root:第1170个iter：最高频子词对('地', '震')
+INFO:root:第1180个iter：当前词表词数:5988
+INFO:root:第1180个iter：最高频子词对('气', '象')
+INFO:root:第1190个iter：当前词表词数:5998
+INFO:root:第1190个iter：最高频子词对('不', '久')
+INFO:root:第1200个iter：当前词表词数:6008
+INFO:root:第1200个iter：最高频子词对('怀', '孕')
+INFO:root:第1210个iter：当前词表词数:6017
+INFO:root:第1210个iter：最高频子词对('拒', '绝')
+INFO:root:第1220个iter：当前词表词数:6027
+INFO:root:第1220个iter：最高频子词对('名', '单')
+INFO:root:第1230个iter：当前词表词数:6037
+INFO:root:第1230个iter：最高频子词对('记者', ':')
+INFO:root:第1240个iter：当前词表词数:6047
+INFO:root:第1240个iter：最高频子词对('电', '台')
+INFO:root:第1250个iter：当前词表词数:6057
+INFO:root:第1250个iter：最高频子词对('1月', '3日')
+INFO:root:第1260个iter：当前词表词数:6067
+INFO:root:第1260个iter：最高频子词对('国', '企')
+INFO:root:第1270个iter：当前词表词数:6077
+INFO:root:第1270个iter：最高频子词对('数', '量')
+INFO:root:第1280个iter：当前词表词数:6087
+INFO:root:第1280个iter：最高频子词对('为', '此')
+INFO:root:第1290个iter：当前词表词数:6097
+INFO:root:第1290个iter：最高频子词对('以', '往')
+INFO:root:第1300个iter：当前词表词数:6107
+INFO:root:第1300个iter：最高频子词对('第一', '次')
+INFO:root:第1310个iter：当前词表词数:6117
+INFO:root:第1310个iter：最高频子词对('电视', '剧')
+INFO:root:第1320个iter：当前词表词数:6127
+INFO:root:第1320个iter：最高频子词对('制', '定')
+INFO:root:第1330个iter：当前词表词数:6137
+INFO:root:第1330个iter：最高频子词对('恢', '复')
+INFO:root:第1340个iter：当前词表词数:6147
+INFO:root:第1340个iter：最高频子词对('意', '味')
+INFO:root:第1350个iter：当前词表词数:6157
+INFO:root:第1350个iter：最高频子词对('你', '们')
+INFO:root:第1360个iter：当前词表词数:6167
+INFO:root:第1360个iter：最高频子词对('特别', '是')
+INFO:root:第1370个iter：当前词表词数:6177
+INFO:root:第1370个iter：最高频子词对('司', '机')
+INFO:root:第1380个iter：当前词表词数:6187
+INFO:root:第1380个iter：最高频子词对('在', '2014年')
+INFO:root:第1390个iter：当前词表词数:6197
+INFO:root:第1390个iter：最高频子词对('攻', '击')
+INFO:root:第1400个iter：当前词表词数:6206
+INFO:root:第1400个iter：最高频子词对('之', '声')
+INFO:root:第1410个iter：当前词表词数:6216
+INFO:root:第1410个iter：最高频子词对('获', '悉')
+INFO:root:第1420个iter：当前词表词数:6226
+INFO:root:第1420个iter：最高频子词对('也', '会')
+INFO:root:第1430个iter：当前词表词数:6236
+INFO:root:第1430个iter：最高频子词对('沙', '发')
+INFO:root:第1440个iter：当前词表词数:6246
+INFO:root:第1440个iter：最高频子词对('新年', '的')
+INFO:root:第1450个iter：当前词表词数:6256
+INFO:root:第1450个iter：最高频子词对('平', '方米')
+INFO:root:第1460个iter：当前词表词数:6266
+INFO:root:第1460个iter：最高频子词对('萝', '卜')
+INFO:root:第1470个iter：当前词表词数:6275
+INFO:root:第1470个iter：最高频子词对('发布', '会')
+INFO:root:第1480个iter：当前词表词数:6284
+INFO:root:第1480个iter：最高频子词对('生', '态')
+INFO:root:第1490个iter：当前词表词数:6294
+INFO:root:第1490个iter：最高频子词对('3', '名')
+INFO:root:第1500个iter：当前词表词数:6303
+INFO:root:第1500个iter：最高频子词对('粉', '丝')
+INFO:root:第1510个iter：当前词表词数:6313
+INFO:root:第1510个iter：最高频子词对('哪', '些')
+INFO:root:第1520个iter：当前词表词数:6323
+INFO:root:第1520个iter：最高频子词对('宪', '法')
+INFO:root:第1530个iter：当前词表词数:6333
+INFO:root:第1530个iter：最高频子词对('周', '边')
+INFO:root:第1540个iter：当前词表词数:6343
+INFO:root:第1540个iter：最高频子词对('没', '想到')
+INFO:root:第1550个iter：当前词表词数:6353
+INFO:root:第1550个iter：最高频子词对('青', '岛')
+INFO:root:第1560个iter：当前词表词数:6363
+INFO:root:第1560个iter：最高频子词对('加', '坡')
+INFO:root:第1570个iter：当前词表词数:6373
+INFO:root:第1570个iter：最高频子词对('动态', '验证码')
+INFO:root:第1580个iter：当前词表词数:6380
+INFO:root:第1580个iter：最高频子词对('行政', '区')
+INFO:root:第1590个iter：当前词表词数:6390
+INFO:root:第1590个iter：最高频子词对('现', '实')
+INFO:root:第1600个iter：当前词表词数:6400
+INFO:root:第1600个iter：最高频子词对('高', '速')
+INFO:root:第1610个iter：当前词表词数:6410
+INFO:root:第1610个iter：最高频子词对('曾', '经')
+INFO:root:第1620个iter：当前词表词数:6420
+INFO:root:第1620个iter：最高频子词对('草', '莓')
+INFO:root:第1630个iter：当前词表词数:6430
+INFO:root:第1630个iter：最高频子词对('爆', '发')
+INFO:root:第1640个iter：当前词表词数:6440
+INFO:root:第1640个iter：最高频子词对('评', '价')
+INFO:root:第1650个iter：当前词表词数:6450
+INFO:root:第1650个iter：最高频子词对('禁止', '吸烟')
+INFO:root:第1660个iter：当前词表词数:6460
+INFO:root:第1660个iter：最高频子词对('汇', '报')
+INFO:root:第1670个iter：当前词表词数:6470
+INFO:root:第1670个iter：最高频子词对('这个', '词')
+INFO:root:第1680个iter：当前词表词数:6480
+INFO:root:第1680个iter：最高频子词对('坚', '决')
+INFO:root:第1690个iter：当前词表词数:6490
+INFO:root:第1690个iter：最高频子词对('各', '自')
+INFO:root:第1700个iter：当前词表词数:6500
+INFO:root:第1700个iter：最高频子词对('用', '于')
+INFO:root:第1710个iter：当前词表词数:6510
+INFO:root:第1710个iter：最高频子词对('的', '消息')
+INFO:root:第1720个iter：当前词表词数:6520
+INFO:root:第1720个iter：最高频子词对('情况', '下')
+INFO:root:第1730个iter：当前词表词数:6529
+INFO:root:第1730个iter：最高频子词对('作战', '系统')
+INFO:root:第1740个iter：当前词表词数:6539
+INFO:root:第1740个iter：最高频子词对('特别', '行政区')
+INFO:root:第1750个iter：当前词表词数:6549
+INFO:root:第1750个iter：最高频子词对('说', '是')
+INFO:root:第1760个iter：当前词表词数:6559
+INFO:root:第1760个iter：最高频子词对('以', '前')
+INFO:root:第1770个iter：当前词表词数:6569
+INFO:root:第1770个iter：最高频子词对('而', '言')
+INFO:root:第1780个iter：当前词表词数:6579
+INFO:root:第1780个iter：最高频子词对('新', '京')
+INFO:root:第1790个iter：当前词表词数:6588
+INFO:root:第1790个iter：最高频子词对('童名', '谦')
+INFO:root:第1800个iter：当前词表词数:6598
+INFO:root:第1800个iter：最高频子词对('总', '统')
+INFO:root:第1810个iter：当前词表词数:6608
+INFO:root:第1810个iter：最高频子词对('违', '反')
+INFO:root:第1820个iter：当前词表词数:6618
+INFO:root:第1820个iter：最高频子词对('项', '规定')
+INFO:root:第1830个iter：当前词表词数:6628
+INFO:root:第1830个iter：最高频子词对('多', '少')
+INFO:root:第1840个iter：当前词表词数:6638
+INFO:root:第1840个iter：最高频子词对('协', '议')
+INFO:root:第1850个iter：当前词表词数:6648
+INFO:root:第1850个iter：最高频子词对('你', '的')
+INFO:root:第1860个iter：当前词表词数:6658
+INFO:root:第1860个iter：最高频子词对('盘', '点')
+INFO:root:第1870个iter：当前词表词数:6668
+INFO:root:第1870个iter：最高频子词对('指', '数')
+INFO:root:第1880个iter：当前词表词数:6678
+INFO:root:第1880个iter：最高频子词对('假', '期')
+INFO:root:第1890个iter：当前词表词数:6687
+INFO:root:第1890个iter：最高频子词对('时', '许')
+INFO:root:第1900个iter：当前词表词数:6697
+INFO:root:第1900个iter：最高频子词对('演', '唱')
+INFO:root:第1910个iter：当前词表词数:6707
+INFO:root:第1910个iter：最高频子词对('其', '次')
+INFO:root:第1920个iter：当前词表词数:6717
+INFO:root:第1920个iter：最高频子词对('吉尼斯', '世界纪录')
+INFO:root:第1930个iter：当前词表词数:6726
+INFO:root:第1930个iter：最高频子词对('无', '数')
+INFO:root:第1940个iter：当前词表词数:6736
+INFO:root:第1940个iter：最高频子词对('批', '准')
+INFO:root:第1950个iter：当前词表词数:6746
+INFO:root:第1950个iter：最高频子词对('已', '被')
+INFO:root:第1960个iter：当前词表词数:6755
+INFO:root:第1960个iter：最高频子词对('该', '男子')
+INFO:root:第1970个iter：当前词表词数:6765
+INFO:root:第1970个iter：最高频子词对('求', '婚')
+INFO:root:第1980个iter：当前词表词数:6774
+INFO:root:第1980个iter：最高频子词对('反', '恐')
+INFO:root:第1990个iter：当前词表词数:6784
+INFO:root:第1990个iter：最高频子词对('施', '行')
+INFO:root:第2000个iter：当前词表词数:6794
+INFO:root:第2000个iter：最高频子词对('细', '则')
+INFO:root:第2010个iter：当前词表词数:6804
+INFO:root:第2010个iter：最高频子词对('买', '了')
+INFO:root:第2020个iter：当前词表词数:6814
+INFO:root:第2020个iter：最高频子词对('0', '元')
+INFO:root:第2030个iter：当前词表词数:6824
+INFO:root:第2030个iter：最高频子词对('前', '天')
+INFO:root:第2040个iter：当前词表词数:6834
+INFO:root:第2040个iter：最高频子词对('意味', '着')
+INFO:root:第2050个iter：当前词表词数:6843
+INFO:root:第2050个iter：最高频子词对('昆', '明')
+INFO:root:第2060个iter：当前词表词数:6851
+INFO:root:第2060个iter：最高频子词对('我是', '歌手')
+INFO:root:第2070个iter：当前词表词数:6861
+INFO:root:第2070个iter：最高频子词对('和', '挑战')
+INFO:root:第2080个iter：当前词表词数:6870
+INFO:root:第2080个iter：最高频子词对('一', '致')
+INFO:root:第2090个iter：当前词表词数:6880
+INFO:root:第2090个iter：最高频子词对('子', '里')
+INFO:root:第2100个iter：当前词表词数:6890
+INFO:root:第2100个iter：最高频子词对('该', '剧')
+INFO:root:第2110个iter：当前词表词数:6900
+INFO:root:第2110个iter：最高频子词对('州', '市')
+INFO:root:第2120个iter：当前词表词数:6910
+INFO:root:第2120个iter：最高频子词对('教', '授')
+INFO:root:第2130个iter：当前词表词数:6920
+INFO:root:第2130个iter：最高频子词对('新', '街口')
+INFO:root:第2140个iter：当前词表词数:6929
+INFO:root:第2140个iter：最高频子词对('他', '是')
+INFO:root:第2150个iter：当前词表词数:6939
+INFO:root:第2150个iter：最高频子词对('更', '新')
+INFO:root:第2160个iter：当前词表词数:6949
+INFO:root:第2160个iter：最高频子词对('到', '底')
+INFO:root:第2170个iter：当前词表词数:6959
+INFO:root:第2170个iter：最高频子词对('天', '然')
+INFO:root:第2180个iter：当前词表词数:6969
+INFO:root:第2180个iter：最高频子词对('能', '否')
+INFO:root:第2190个iter：当前词表词数:6979
+INFO:root:第2190个iter：最高频子词对('驱', '逐')
+INFO:root:第2200个iter：当前词表词数:6989
+INFO:root:第2200个iter：最高频子词对('我', '和')
+INFO:root:第2210个iter：当前词表词数:6999
+INFO:root:第2210个iter：最高频子词对('景', '点')
+INFO:root:第2220个iter：当前词表词数:7009
+INFO:root:第2220个iter：最高频子词对('热点', '新闻推荐')
+INFO:root:第2230个iter：当前词表词数:7019
+INFO:root:第2230个iter：最高频子词对('交', '易')
+INFO:root:第2240个iter：当前词表词数:7029
+INFO:root:第2240个iter：最高频子词对('辞旧', '迎新')
+INFO:root:第2250个iter：当前词表词数:7039
+INFO:root:第2250个iter：最高频子词对('活', '力')
+INFO:root:第2260个iter：当前词表词数:7049
+INFO:root:第2260个iter：最高频子词对('两', '大')
+INFO:root:第2270个iter：当前词表词数:7059
+INFO:root:第2270个iter：最高频子词对('组', '成')
+INFO:root:第2280个iter：当前词表词数:7069
+INFO:root:第2280个iter：最高频子词对('村', '民')
+INFO:root:第2290个iter：当前词表词数:7079
+INFO:root:第2290个iter：最高频子词对('清', '晰')
+INFO:root:第2300个iter：当前词表词数:7089
+INFO:root:第2300个iter：最高频子词对('习', '俗')
+INFO:root:第2310个iter：当前词表词数:7099
+INFO:root:第2310个iter：最高频子词对('她', '家')
+INFO:root:第2320个iter：当前词表词数:7109
+INFO:root:第2320个iter：最高频子词对('信', '心')
+INFO:root:第2330个iter：当前词表词数:7119
+INFO:root:第2330个iter：最高频子词对('充满希望', '的')
+INFO:root:第2340个iter：当前词表词数:7128
+INFO:root:第2340个iter：最高频子词对('200', '9年')
+INFO:root:第2350个iter：当前词表词数:7138
+INFO:root:第2350个iter：最高频子词对('足', '球')
+INFO:root:第2360个iter：当前词表词数:7148
+INFO:root:第2360个iter：最高频子词对('制', '品')
+INFO:root:第2370个iter：当前词表词数:7158
+INFO:root:第2370个iter：最高频子词对('也', '没有')
+INFO:root:第2380个iter：当前词表词数:7168
+INFO:root:第2380个iter：最高频子词对('生物', '威胁')
+INFO:root:第2390个iter：当前词表词数:7178
+INFO:root:第2390个iter：最高频子词对('杂', '志')
+INFO:root:第2400个iter：当前词表词数:7188
+INFO:root:第2400个iter：最高频子词对('两', '名')
+INFO:root:第2410个iter：当前词表词数:7198
+INFO:root:第2410个iter：最高频子词对('做', '法')
+INFO:root:第2420个iter：当前词表词数:7208
+INFO:root:第2420个iter：最高频子词对('火', '车票')
+INFO:root:第2430个iter：当前词表词数:7218
+INFO:root:第2430个iter：最高频子词对('下', '降')
+INFO:root:第2440个iter：当前词表词数:7228
+INFO:root:第2440个iter：最高频子词对('暂', '时')
+INFO:root:第2450个iter：当前词表词数:7236
+INFO:root:第2450个iter：最高频子词对('大', '战')
+INFO:root:第2460个iter：当前词表词数:7246
+INFO:root:第2460个iter：最高频子词对('争', '议')
+INFO:root:第2470个iter：当前词表词数:7256
+INFO:root:第2470个iter：最高频子词对('外', '界')
+INFO:root:第2480个iter：当前词表词数:7266
+INFO:root:第2480个iter：最高频子词对('官方', '微博')
+INFO:root:第2490个iter：当前词表词数:7275
+INFO:root:第2490个iter：最高频子词对('发表', '了')
+INFO:root:第2500个iter：当前词表词数:7285
+INFO:root:第2500个iter：最高频子词对('达到', '8')
+INFO:root:第2510个iter：当前词表词数:7295
+INFO:root:第2510个iter：最高频子词对('攻', '坚')
+INFO:root:第2520个iter：当前词表词数:7305
+INFO:root:第2520个iter：最高频子词对('领', '土')
+INFO:root:第2530个iter：当前词表词数:7315
+INFO:root:第2530个iter：最高频子词对('脱', '离')
+INFO:root:第2540个iter：当前词表词数:7325
+INFO:root:第2540个iter：最高频子词对('’', '的')
+INFO:root:第2550个iter：当前词表词数:7335
+INFO:root:第2550个iter：最高频子词对('正', '是')
+INFO:root:第2560个iter：当前词表词数:7345
+INFO:root:第2560个iter：最高频子词对('西', '红')
+INFO:root:第2570个iter：当前词表词数:7354
+INFO:root:第2570个iter：最高频子词对('字', '符')
+INFO:root:第2580个iter：当前词表词数:7364
+INFO:root:第2580个iter：最高频子词对('制度', '的')
+INFO:root:第2590个iter：当前词表词数:7373
+INFO:root:第2590个iter：最高频子词对('要', '做')
+INFO:root:第2600个iter：当前词表词数:7383
+INFO:root:第2600个iter：最高频子词对('侵', '略')
+INFO:root:第2610个iter：当前词表词数:7393
+INFO:root:第2610个iter：最高频子词对('南', '宁')
+INFO:root:第2620个iter：当前词表词数:7403
+INFO:root:第2620个iter：最高频子词对('开', '心')
+INFO:root:第2630个iter：当前词表词数:7413
+INFO:root:第2630个iter：最高频子词对('青岛', '某军港')
+INFO:root:第2640个iter：当前词表词数:7423
+INFO:root:第2640个iter：最高频子词对('侦', '查')
+INFO:root:第2650个iter：当前词表词数:7433
+INFO:root:第2650个iter：最高频子词对('签', '名')
+INFO:root:第2660个iter：当前词表词数:7443
+INFO:root:第2660个iter：最高频子词对('功', '效')
+INFO:root:第2670个iter：当前词表词数:7453
+INFO:root:第2670个iter：最高频子词对('敬老', '院')
+INFO:root:第2680个iter：当前词表词数:7457
+INFO:root:第2680个iter：最高频子词对('耳', '鼻')
+INFO:root:第2690个iter：当前词表词数:7467
+INFO:root:第2690个iter：最高频子词对('甄嬛', '传')
+INFO:root:第2700个iter：当前词表词数:7476
+INFO:root:第2700个iter：最高频子词对('金融', '资产')
+INFO:root:第2710个iter：当前词表词数:7486
+INFO:root:第2710个iter：最高频子词对('下', '车')
+INFO:root:第2720个iter：当前词表词数:7496
+INFO:root:第2720个iter：最高频子词对('抵', '达')
+INFO:root:第2730个iter：当前词表词数:7506
+INFO:root:第2730个iter：最高频子词对('有利', '于')
+INFO:root:第2740个iter：当前词表词数:7515
+INFO:root:第2740个iter：最高频子词对('不', '知道')
+INFO:root:第2750个iter：当前词表词数:7525
+INFO:root:第2750个iter：最高频子词对('亲', '属')
+INFO:root:第2760个iter：当前词表词数:7535
+INFO:root:第2760个iter：最高频子词对('从', '来')
+INFO:root:第2770个iter：当前词表词数:7545
+INFO:root:第2770个iter：最高频子词对('并', '未')
+INFO:root:第2780个iter：当前词表词数:7554
+INFO:root:第2780个iter：最高频子词对('体', '内')
+INFO:root:第2790个iter：当前词表词数:7564
+INFO:root:第2790个iter：最高频子词对('落', '成')
+INFO:root:第2800个iter：当前词表词数:7569
+INFO:root:第2800个iter：最高频子词对('18', '00')
+INFO:root:第2810个iter：当前词表词数:7578
+INFO:root:第2810个iter：最高频子词对('黑', '寡妇')
+INFO:root:第2820个iter：当前词表词数:7588
+INFO:root:第2820个iter：最高频子词对('深', '入')
+INFO:root:第2830个iter：当前词表词数:7598
+INFO:root:第2830个iter：最高频子词对('东', '京')
+INFO:root:第2840个iter：当前词表词数:7608
+INFO:root:第2840个iter：最高频子词对('李', '娜')
+INFO:root:第2850个iter：当前词表词数:7618
+INFO:root:第2850个iter：最高频子词对('提', '示')
+INFO:root:第2860个iter：当前词表词数:7627
+INFO:root:第2860个iter：最高频子词对('他', '认为')
+INFO:root:第2870个iter：当前词表词数:7636
+INFO:root:第2870个iter：最高频子词对('刑事', '拘留')
+INFO:root:第2880个iter：当前词表词数:7646
+INFO:root:第2880个iter：最高频子词对('用', '来')
+INFO:root:第2890个iter：当前词表词数:7656
+INFO:root:第2890个iter：最高频子词对('功甫', '帖')
+INFO:root:第2900个iter：当前词表词数:7666
+INFO:root:第2900个iter：最高频子词对('测', '试')
+INFO:root:第2910个iter：当前词表词数:7676
+INFO:root:第2910个iter：最高频子词对('前', '段时间')
+INFO:root:第2920个iter：当前词表词数:7686
+INFO:root:第2920个iter：最高频子词对('二', '轮')
+INFO:root:第2930个iter：当前词表词数:7695
+INFO:root:第2930个iter：最高频子词对('尊', '重')
+INFO:root:第2940个iter：当前词表词数:7705
+INFO:root:第2940个iter：最高频子词对('必', '将')
+INFO:root:第2950个iter：当前词表词数:7715
+INFO:root:第2950个iter：最高频子词对('的', '三')
+INFO:root:第2960个iter：当前词表词数:7725
+INFO:root:第2960个iter：最高频子词对('方面', '的')
+INFO:root:第2970个iter：当前词表词数:7735
+INFO:root:第2970个iter：最高频子词对('福', '袋')
+INFO:root:第2980个iter：当前词表词数:7745
+INFO:root:第2980个iter：最高频子词对('中', '间')
+INFO:root:第2990个iter：当前词表词数:7755
+INFO:root:第2990个iter：最高频子词对('路', '边')
+INFO:root:第3000个iter：当前词表词数:7765
+INFO:root:第3000个iter：最高频子词对('啦', '!')
+INFO:root:第3010个iter：当前词表词数:7775
+INFO:root:第3010个iter：最高频子词对('4', '3')
+INFO:root:第3020个iter：当前词表词数:7784
+INFO:root:第3020个iter：最高频子词对('6', '亿元')
+INFO:root:第3030个iter：当前词表词数:7794
+INFO:root:第3030个iter：最高频子词对('一', '方面')
+INFO:root:第3040个iter：当前词表词数:7804
+INFO:root:第3040个iter：最高频子词对('私', '人')
+INFO:root:第3050个iter：当前词表词数:7814
+INFO:root:第3050个iter：最高频子词对('小', '的')
+INFO:root:第3060个iter：当前词表词数:7824
+INFO:root:第3060个iter：最高频子词对('房产', '证')
+INFO:root:第3070个iter：当前词表词数:7834
+INFO:root:第3070个iter：最高频子词对('中', '科院')
+INFO:root:第3080个iter：当前词表词数:7843
+INFO:root:第3080个iter：最高频子词对('证件', '照')
+INFO:root:第3090个iter：当前词表词数:7851
+INFO:root:第3090个iter：最高频子词对('紧', '急')
+INFO:root:第3100个iter：当前词表词数:7859
+INFO:root:第3100个iter：最高频子词对('追', '寻')
+INFO:root:第3110个iter：当前词表词数:7869
+INFO:root:第3110个iter：最高频子词对('畜', '禽')
+INFO:root:第3120个iter：当前词表词数:7879
+INFO:root:第3120个iter：最高频子词对('能', '源')
+INFO:root:第3130个iter：当前词表词数:7889
+INFO:root:第3130个iter：最高频子词对('不', '够')
+INFO:root:第3140个iter：当前词表词数:7899
+INFO:root:第3140个iter：最高频子词对('作', '案')
+INFO:root:第3150个iter：当前词表词数:7909
+INFO:root:第3150个iter：最高频子词对('窗', '口')
+INFO:root:第3160个iter：当前词表词数:7917
+INFO:root:第3160个iter：最高频子词对('我', '想')
+INFO:root:第3170个iter：当前词表词数:7927
+INFO:root:第3170个iter：最高频子词对('现', '金')
+INFO:root:第3180个iter：当前词表词数:7937
+INFO:root:第3180个iter：最高频子词对('一', '看')
+INFO:root:第3190个iter：当前词表词数:7947
+INFO:root:第3190个iter：最高频子词对('尔', '·')
+INFO:root:第3200个iter：当前词表词数:7957
+INFO:root:第3200个iter：最高频子词对('达', '成')
+INFO:root:第3210个iter：当前词表词数:7967
+INFO:root:第3210个iter：最高频子词对('致', '命')
+INFO:root:第3220个iter：当前词表词数:7976
+INFO:root:第3220个iter：最高频子词对('豆', '浆')
+INFO:root:第3230个iter：当前词表词数:7986
+INFO:root:第3230个iter：最高频子词对('孙', '杨')
+INFO:root:第3240个iter：当前词表词数:7994
+INFO:root:第3240个iter：最高频子词对('三沙', '书记市长')
+INFO:root:第3250个iter：当前词表词数:7995
+INFO:root:第3250个iter：最高频子词对('海南2013年十件民生实事', '完成')
+INFO:root:第3260个iter：当前词表词数:7997
+INFO:root:第3260个iter：最高频子词对('本网', '关注')
+INFO:root:第3270个iter：当前词表词数:7997
+INFO:root:第3270个iter：最高频子词对('本网关注:特困户黄仕宣新年将圆', '电动车')
+INFO:root:第3280个iter：当前词表词数:7999
+INFO:root:第3280个iter：最高频子词对('海口环海大厦百余业主苦等8年仍未拿', '房产证')
+INFO:root:第3290个iter：当前词表词数:8000
+INFO:root:第3290个iter：最高频子词对('视频:阿婆为受虐者作证遭殴派出所', '无')
+INFO:root:第3300个iter：当前词表词数:8001
+INFO:root:第3300个iter：最高频子词对('海南实施新交规一年:共对近88', '万名')
+INFO:root:第3310个iter：当前词表词数:8008
+INFO:root:第3310个iter：最高频子词对('天', '安')
+INFO:root:第3320个iter：当前词表词数:8017
+INFO:root:第3320个iter：最高频子词对('宋筱', '玮')
+INFO:root:第3330个iter：当前词表词数:8026
+INFO:root:第3330个iter：最高频子词对('地', '点')
+INFO:root:第3340个iter：当前词表词数:8036
+INFO:root:第3340个iter：最高频子词对('更', '大')
+INFO:root:第3350个iter：当前词表词数:8046
+INFO:root:第3350个iter：最高频子词对('固', '定')
+INFO:root:第3360个iter：当前词表词数:8056
+INFO:root:第3360个iter：最高频子词对('不得', '不')
+INFO:root:第3370个iter：当前词表词数:8066
+INFO:root:第3370个iter：最高频子词对('表', '演')
+INFO:root:第3380个iter：当前词表词数:8076
+INFO:root:第3380个iter：最高频子词对('的', '变化')
+INFO:root:第3390个iter：当前词表词数:8086
+INFO:root:第3390个iter：最高频子词对('四', '风')
+INFO:root:第3400个iter：当前词表词数:8096
+INFO:root:第3400个iter：最高频子词对('花', '园')
+INFO:root:第3410个iter：当前词表词数:8106
+INFO:root:第3410个iter：最高频子词对('均', '已')
+INFO:root:第3420个iter：当前词表词数:8116
+INFO:root:第3420个iter：最高频子词对('吃', '的')
+INFO:root:第3430个iter：当前词表词数:8126
+INFO:root:第3430个iter：最高频子词对('备受', '关注')
+INFO:root:第3440个iter：当前词表词数:8136
+INFO:root:第3440个iter：最高频子词对('结婚', '的')
+INFO:root:第3450个iter：当前词表词数:8145
+INFO:root:第3450个iter：最高频子词对('林心', '如')
+INFO:root:第3460个iter：当前词表词数:8155
+INFO:root:第3460个iter：最高频子词对('阿', '富')
+INFO:root:第3470个iter：当前词表词数:8159
+INFO:root:第3470个iter：最高频子词对('元旦海南游账单写满盈', '字')
+INFO:root:第3480个iter：当前词表词数:8164
+INFO:root:第3480个iter：最高频子词对('做好', '领导干部')
+INFO:root:第3490个iter：当前词表词数:8171
+INFO:root:第3490个iter：最高频子词对('宋忠', '平说')
+INFO:root:第3500个iter：当前词表词数:8181
+INFO:root:第3500个iter：最高频子词对('冲', '击')
+INFO:root:第3510个iter：当前词表词数:8191
+INFO:root:第3510个iter：最高频子词对('线', '路')
+INFO:root:第3520个iter：当前词表词数:8201
+INFO:root:第3520个iter：最高频子词对('构', '建')
+INFO:root:第3530个iter：当前词表词数:8211
+INFO:root:第3530个iter：最高频子词对('注', '重')
+INFO:root:第3540个iter：当前词表词数:8221
+INFO:root:第3540个iter：最高频子词对('在', '日本')
+INFO:root:第3550个iter：当前词表词数:8231
+INFO:root:第3550个iter：最高频子词对('不得', '在')
+INFO:root:第3560个iter：当前词表词数:8241
+INFO:root:第3560个iter：最高频子词对('1月1日', '起')
+INFO:root:第3570个iter：当前词表词数:8251
+INFO:root:第3570个iter：最高频子词对('监察', '部')
+INFO:root:第3580个iter：当前词表词数:8261
+INFO:root:第3580个iter：最高频子词对('一', '辈')
+INFO:root:第3590个iter：当前词表词数:8271
+INFO:root:第3590个iter：最高频子词对('声', '明')
+INFO:root:第3600个iter：当前词表词数:8281
+INFO:root:第3600个iter：最高频子词对('延', '续')
+INFO:root:第3610个iter：当前词表词数:8291
+INFO:root:第3610个iter：最高频子词对('出现', '了')
+INFO:root:第3620个iter：当前词表词数:8301
+INFO:root:第3620个iter：最高频子词对('户', '口')
+INFO:root:第3630个iter：当前词表词数:8311
+INFO:root:第3630个iter：最高频子词对('朝', '着')
+INFO:root:第3640个iter：当前词表词数:8321
+INFO:root:第3640个iter：最高频子词对('传', '闻')
+INFO:root:第3650个iter：当前词表词数:8330
+INFO:root:第3650个iter：最高频子词对('种', '食物')
+INFO:root:第3660个iter：当前词表词数:8340
+INFO:root:第3660个iter：最高频子词对('波', '士')
+INFO:root:第3670个iter：当前词表词数:8348
+INFO:root:第3670个iter：最高频子词对('下', '水')
+INFO:root:第3680个iter：当前词表词数:8357
+INFO:root:第3680个iter：最高频子词对('在', '央视')
+INFO:root:第3690个iter：当前词表词数:8366
+INFO:root:第3690个iter：最高频子词对('西', '北')
+INFO:root:第3700个iter：当前词表词数:8376
+INFO:root:第3700个iter：最高频子词对('能够', '实现')
+INFO:root:第3710个iter：当前词表词数:8386
+INFO:root:第3710个iter：最高频子词对('进', '口')
+INFO:root:第3720个iter：当前词表词数:8396
+INFO:root:第3720个iter：最高频子词对('红', '线')
+INFO:root:第3730个iter：当前词表词数:8406
+INFO:root:第3730个iter：最高频子词对('或', '将')
+INFO:root:第3740个iter：当前词表词数:8416
+INFO:root:第3740个iter：最高频子词对('园', '区')
+INFO:root:第3750个iter：当前词表词数:8426
+INFO:root:第3750个iter：最高频子词对('星', '的')
+INFO:root:第3760个iter：当前词表词数:8436
+INFO:root:第3760个iter：最高频子词对('西', '亚')
+INFO:root:第3770个iter：当前词表词数:8446
+INFO:root:第3770个iter：最高频子词对('中央纪委', '监察部')
+INFO:root:第3780个iter：当前词表词数:8456
+INFO:root:第3780个iter：最高频子词对('财', '经')
+INFO:root:第3790个iter：当前词表词数:8466
+INFO:root:第3790个iter：最高频子词对('第二', '次')
+INFO:root:第3800个iter：当前词表词数:8475
+INFO:root:第3800个iter：最高频子词对('他们', '的')
+INFO:root:第3810个iter：当前词表词数:8485
+INFO:root:第3810个iter：最高频子词对('分析', '称')
+INFO:root:第3820个iter：当前词表词数:8495
+INFO:root:第3820个iter：最高频子词对('持续', '到')
+INFO:root:第3830个iter：当前词表词数:8504
+INFO:root:第3830个iter：最高频子词对('膳', '食')
+INFO:root:第3840个iter：当前词表词数:8514
+INFO:root:第3840个iter：最高频子词对('在', '港')
+INFO:root:第3850个iter：当前词表词数:8522
+INFO:root:第3850个iter：最高频子词对('卫计', '委')
+INFO:root:第3860个iter：当前词表词数:8532
+INFO:root:第3860个iter：最高频子词对('空', '域')
+INFO:root:第3870个iter：当前词表词数:8541
+INFO:root:第3870个iter：最高频子词对('陆', '丰')
+INFO:root:第3880个iter：当前词表词数:8549
+INFO:root:第3880个iter：最高频子词对('前', '进')
+INFO:root:第3890个iter：当前词表词数:8559
+INFO:root:第3890个iter：最高频子词对('守望', '相')
+INFO:root:第3900个iter：当前词表词数:8568
+INFO:root:第3900个iter：最高频子词对('配', '套')
+INFO:root:第3910个iter：当前词表词数:8578
+INFO:root:第3910个iter：最高频子词对('外', '出')
+INFO:root:第3920个iter：当前词表词数:8588
+INFO:root:第3920个iter：最高频子词对('许', '愿')
+INFO:root:第3930个iter：当前词表词数:8598
+INFO:root:第3930个iter：最高频子词对('团', '体')
+INFO:root:第3940个iter：当前词表词数:8608
+INFO:root:第3940个iter：最高频子词对('身', '后')
+INFO:root:第3950个iter：当前词表词数:8618
+INFO:root:第3950个iter：最高频子词对('老', '板')
+INFO:root:第3960个iter：当前词表词数:8628
+INFO:root:第3960个iter：最高频子词对('2012年', '12月')
+INFO:root:第3970个iter：当前词表词数:8638
+INFO:root:第3970个iter：最高频子词对('下', '跌')
+INFO:root:第3980个iter：当前词表词数:8648
+INFO:root:第3980个iter：最高频子词对('2013年', '10月')
+INFO:root:第3990个iter：当前词表词数:8658
+INFO:root:第3990个iter：最高频子词对('理', '财')
+INFO:root:第4000个iter：当前词表词数:8668
+INFO:root:第4000个iter：最高频子词对('促', '销')
+INFO:root:第4010个iter：当前词表词数:8678
+INFO:root:第4010个iter：最高频子词对('面', '世')
+INFO:root:第4020个iter：当前词表词数:8687
+INFO:root:第4020个iter：最高频子词对('17', '日')
+INFO:root:第4030个iter：当前词表词数:8697
+INFO:root:第4030个iter：最高频子词对('情绪', '激动')
+INFO:root:第4040个iter：当前词表词数:8707
+INFO:root:第4040个iter：最高频子词对('起', '到')
+INFO:root:第4050个iter：当前词表词数:8717
+INFO:root:第4050个iter：最高频子词对('两', '人的')
+INFO:root:第4060个iter：当前词表词数:8726
+INFO:root:第4060个iter：最高频子词对('李云', '迪')
+INFO:root:第4070个iter：当前词表词数:8735
+INFO:root:第4070个iter：最高频子词对(';', '区')
+INFO:root:第4080个iter：当前词表词数:8743
+INFO:root:第4080个iter：最高频子词对('验证码', '的')
+INFO:root:第4090个iter：当前词表词数:8753
+INFO:root:第4090个iter：最高频子词对('喂', '食')
+INFO:root:第4100个iter：当前词表词数:8763
+INFO:root:第4100个iter：最高频子词对('张', '先生')
+INFO:root:第4110个iter：当前词表词数:8770
+INFO:root:第4110个iter：最高频子词对('航母', '战斗')
+INFO:root:第4120个iter：当前词表词数:8779
+INFO:root:第4120个iter：最高频子词对('到', '达')
+INFO:root:第4130个iter：当前词表词数:8789
+INFO:root:第4130个iter：最高频子词对('祝愿', '各国人民')
+INFO:root:第4140个iter：当前词表词数:8796
+INFO:root:第4140个iter：最高频子词对('向', '世界')
+INFO:root:第4150个iter：当前词表词数:8806
+INFO:root:第4150个iter：最高频子词对('收', '支')
+INFO:root:第4160个iter：当前词表词数:8816
+INFO:root:第4160个iter：最高频子词对('已', '是')
+INFO:root:第4170个iter：当前词表词数:8826
+INFO:root:第4170个iter：最高频子词对('量', '的')
+INFO:root:第4180个iter：当前词表词数:8833
+INFO:root:第4180个iter：最高频子词对('委内瑞', '拉')
+INFO:root:第4190个iter：当前词表词数:8842
+INFO:root:第4190个iter：最高频子词对('经', '费')
+INFO:root:第4200个iter：当前词表词数:8852
+INFO:root:第4200个iter：最高频子词对('爸', '妈')
+INFO:root:第4210个iter：当前词表词数:8862
+INFO:root:第4210个iter：最高频子词对('是', '最')
+INFO:root:第4220个iter：当前词表词数:8872
+INFO:root:第4220个iter：最高频子词对('用', '手')
+INFO:root:第4230个iter：当前词表词数:8882
+INFO:root:第4230个iter：最高频子词对('知', '情')
+INFO:root:第4240个iter：当前词表词数:8892
+INFO:root:第4240个iter：最高频子词对('搞', '垮')
+INFO:root:第4250个iter：当前词表词数:8900
+INFO:root:第4250个iter：最高频子词对('班', '子')
+INFO:root:第4260个iter：当前词表词数:8910
+INFO:root:第4260个iter：最高频子词对('报', '案')
+INFO:root:第4270个iter：当前词表词数:8920
+INFO:root:第4270个iter：最高频子词对('不', '高')
+INFO:root:第4280个iter：当前词表词数:8930
+INFO:root:第4280个iter：最高频子词对('涉嫌挪用公款', '1000万元')
+INFO:root:第4290个iter：当前词表词数:8934
+INFO:root:第4290个iter：最高频子词对('难', '度')
+INFO:root:第4300个iter：当前词表词数:8942
+INFO:root:第4300个iter：最高频子词对('葡', '萄')
+INFO:root:第4310个iter：当前词表词数:8952
+INFO:root:第4310个iter：最高频子词对('纪念', '邮票')
+INFO:root:第4320个iter：当前词表词数:8962
+INFO:root:第4320个iter：最高频子词对('养老金', '并')
+INFO:root:第4330个iter：当前词表词数:8971
+INFO:root:第4330个iter：最高频子词对('的', '字样')
+INFO:root:第4340个iter：当前词表词数:8980
+INFO:root:第4340个iter：最高频子词对('在无许可证情况下', '进入')
+INFO:root:第4350个iter：当前词表词数:8990
+INFO:root:第4350个iter：最高频子词对('东', '大街')
+INFO:root:第4360个iter：当前词表词数:9000
+INFO:root:第4360个iter：最高频子词对('周', '总理')
+INFO:root:第4370个iter：当前词表词数:9009
+INFO:root:第4370个iter：最高频子词对('3', '4')
+INFO:root:第4380个iter：当前词表词数:9017
+INFO:root:第4380个iter：最高频子词对('70多亿人共同生活', '在我们')
+INFO:root:第4390个iter：当前词表词数:9022
+INFO:root:第4390个iter：最高频子词对('也', '祝愿各国人民能够实现自己的梦想')
+INFO:root:第4400个iter：当前词表词数:9029
+INFO:root:第4400个iter：最高频子词对('还有', '大量')
+INFO:root:第4410个iter：当前词表词数:9036
+INFO:root:第4410个iter：最高频子词对('来', '之不易')
+INFO:root:第4420个iter：当前词表词数:9044
+INFO:root:第4420个iter：最高频子词对('坚', '信')
+INFO:root:第4430个iter：当前词表词数:9054
+INFO:root:第4430个iter：最高频子词对('一', '是')
+INFO:root:第4440个iter：当前词表词数:9063
+INFO:root:第4440个iter：最高频子词对('氛', '围')
+INFO:root:第4450个iter：当前词表词数:9073
+INFO:root:第4450个iter：最高频子词对('尚', '未')
+INFO:root:第4460个iter：当前词表词数:9083
+INFO:root:第4460个iter：最高频子词对('从', '而')
+INFO:root:第4470个iter：当前词表词数:9093
+INFO:root:第4470个iter：最高频子词对('知', '名')
+INFO:root:第4480个iter：当前词表词数:9103
+INFO:root:第4480个iter：最高频子词对('极', '为')
+INFO:root:第4490个iter：当前词表词数:9112
+INFO:root:第4490个iter：最高频子词对('可以', '看到')
+INFO:root:第4500个iter：当前词表词数:9122
+INFO:root:第4500个iter：最高频子词对('的', '关系')
+INFO:root:第4510个iter：当前词表词数:9131
+INFO:root:第4510个iter：最高频子词对('乌克', '兰')
+INFO:root:第4520个iter：当前词表词数:9140
+INFO:root:第4520个iter：最高频子词对('陷', '入')
+INFO:root:第4530个iter：当前词表词数:9150
+INFO:root:第4530个iter：最高频子词对('好', '好')
+INFO:root:第4540个iter：当前词表词数:9159
+INFO:root:第4540个iter：最高频子词对('当日', '下午')
+INFO:root:第4550个iter：当前词表词数:9169
+INFO:root:第4550个iter：最高频子词对('维', '权')
+INFO:root:第4560个iter：当前词表词数:9179
+INFO:root:第4560个iter：最高频子词对('美', '食')
+INFO:root:第4570个iter：当前词表词数:9189
+INFO:root:第4570个iter：最高频子词对('居住', '证')
+INFO:root:第4580个iter：当前词表词数:9198
+INFO:root:第4580个iter：最高频子词对('是', '当前')
+INFO:root:第4590个iter：当前词表词数:9208
+INFO:root:第4590个iter：最高频子词对('自', '2014年1月1日起')
+INFO:root:第4600个iter：当前词表词数:9216
+INFO:root:第4600个iter：最高频子词对('检察院对张某以', '涉嫌挪用公款')
+INFO:root:第4610个iter：当前词表词数:9224
+INFO:root:第4610个iter：最高频子词对('反', '而')
+INFO:root:第4620个iter：当前词表词数:9234
+INFO:root:第4620个iter：最高频子词对('198', '0元')
+INFO:root:第4630个iter：当前词表词数:9244
+INFO:root:第4630个iter：最高频子词对('奖', '金')
+INFO:root:第4640个iter：当前词表词数:9254
+INFO:root:第4640个iter：最高频子词对('好', '心')
+INFO:root:第4650个iter：当前词表词数:9263
+INFO:root:第4650个iter：最高频子词对('含有', '大量的')
+INFO:root:第4660个iter：当前词表词数:9272
+INFO:root:第4660个iter：最高频子词对('新', '气象')
+INFO:root:第4670个iter：当前词表词数:9280
+INFO:root:第4670个iter：最高频子词对('香港驻军', '禁区')
+INFO:root:第4680个iter：当前词表词数:9290
+INFO:root:第4680个iter：最高频子词对('中国', '第一')
+INFO:root:第4690个iter：当前词表词数:9299
+INFO:root:第4690个iter：最高频子词对('铁路总公司', '客服')
+INFO:root:第4700个iter：当前词表词数:9307
+INFO:root:第4700个iter：最高频子词对('少', '林')
+INFO:root:第4710个iter：当前词表词数:9317
+INFO:root:第4710个iter：最高频子词对('3名', '中国')
+INFO:root:第4720个iter：当前词表词数:9326
+INFO:root:第4720个iter：最高频子词对('赖', '特')
+INFO:root:第4730个iter：当前词表词数:9334
+INFO:root:第4730个iter：最高频子词对('张含韵', '等')
+INFO:root:第4740个iter：当前词表词数:9341
+INFO:root:第4740个iter：最高频子词对('决', '策')
+INFO:root:第4750个iter：当前词表词数:9351
+INFO:root:第4750个iter：最高频子词对('不平凡', '的一年')
+INFO:root:第4760个iter：当前词表词数:9358
+INFO:root:第4760个iter：最高频子词对('一元复', '始')
+INFO:root:第4770个iter：当前词表词数:9366
+INFO:root:第4770个iter：最高频子词对('宏', '伟')
+INFO:root:第4780个iter：当前词表词数:9372
+INFO:root:第4780个iter：最高频子词对('改革是需要我们共同为', '之')
+INFO:root:第4790个iter：当前词表词数:9380
+INFO:root:第4790个iter：最高频子词对('一', '批')
+INFO:root:第4800个iter：当前词表词数:9390
+INFO:root:第4800个iter：最高频子词对('编', '制')
+INFO:root:第4810个iter：当前词表词数:9400
+INFO:root:第4810个iter：最高频子词对('全', '力')
+INFO:root:第4820个iter：当前词表词数:9410
+INFO:root:第4820个iter：最高频子词对('上班', '族')
+INFO:root:第4830个iter：当前词表词数:9420
+INFO:root:第4830个iter：最高频子词对('人们', '对')
+INFO:root:第4840个iter：当前词表词数:9429
+INFO:root:第4840个iter：最高频子词对('管理', '办法')
+INFO:root:第4850个iter：当前词表词数:9439
+INFO:root:第4850个iter：最高频子词对('7', '个')
+INFO:root:第4860个iter：当前词表词数:9449
+INFO:root:第4860个iter：最高频子词对('三', '星')
+INFO:root:第4870个iter：当前词表词数:9459
+INFO:root:第4870个iter：最高频子词对('广播', '公司')
+INFO:root:第4880个iter：当前词表词数:9468
+INFO:root:第4880个iter：最高频子词对('3', '60')
+INFO:root:第4890个iter：当前词表词数:9478
+INFO:root:第4890个iter：最高频子词对('两', '家')
+INFO:root:第4900个iter：当前词表词数:9488
+INFO:root:第4900个iter：最高频子词对('许多', '人')
+INFO:root:第4910个iter：当前词表词数:9497
+INFO:root:第4910个iter：最高频子词对('实名', '举报')
+INFO:root:第4920个iter：当前词表词数:9507
+INFO:root:第4920个iter：最高频子词对('数', '额')
+INFO:root:第4930个iter：当前词表词数:9517
+INFO:root:第4930个iter：最高频子词对('整', '改')
+INFO:root:第4940个iter：当前词表词数:9527
+INFO:root:第4940个iter：最高频子词对('查', '询')
+INFO:root:第4950个iter：当前词表词数:9537
+INFO:root:第4950个iter：最高频子词对('华', '人')
+INFO:root:第4960个iter：当前词表词数:9547
+INFO:root:第4960个iter：最高频子词对('众', '所')
+INFO:root:第4970个iter：当前词表词数:9555
+INFO:root:第4970个iter：最高频子词对('车', '道')
+INFO:root:第4980个iter：当前词表词数:9565
+INFO:root:第4980个iter：最高频子词对('胃', '肠')
+INFO:root:第4990个iter：当前词表词数:9574
+INFO:root:第4990个iter：最高频子词对('何', '炅')
+INFO:root:第5000个iter：当前词表词数:9583
+INFO:root:第5000个iter：最高频子词对('上午', '7')
+INFO:root:第5010个iter：当前词表词数:9593
+INFO:root:第5010个iter：最高频子词对('双', '重')
+INFO:root:第5020个iter：当前词表词数:9602
+INFO:root:第5020个iter：最高频子词对('让', '这个')
+INFO:root:第5030个iter：当前词表词数:9611
+INFO:root:第5030个iter：最高频子词对('嫖', '娼')
+INFO:root:第5040个iter：当前词表词数:9620
+INFO:root:第5040个iter：最高频子词对('超', '标')
+INFO:root:第5050个iter：当前词表词数:9630
+INFO:root:第5050个iter：最高频子词对('剧', '烈')
+INFO:root:第5060个iter：当前词表词数:9639
+INFO:root:第5060个iter：最高频子词对('电话', '里')
+INFO:root:第5070个iter：当前词表词数:9646
+INFO:root:第5070个iter：最高频子词对('海', '试')
+INFO:root:第5080个iter：当前词表词数:9654
+INFO:root:第5080个iter：最高频子词对('正定', '人民')
+INFO:root:第5090个iter：当前词表词数:9664
+INFO:root:第5090个iter：最高频子词对('般', '大小')
+INFO:root:第5100个iter：当前词表词数:9674
+INFO:root:第5100个iter：最高频子词对('一', '所')
+INFO:root:第5110个iter：当前词表词数:9682
+INFO:root:第5110个iter：最高频子词对('向香港', '特别行政区同胞')
+INFO:root:第5120个iter：当前词表词数:9688
+INFO:root:第5120个iter：最高频子词对('团', '聚')
+INFO:root:第5130个iter：当前词表词数:9693
+INFO:root:第5130个iter：最高频子词对('成绩', '来之不易')
+INFO:root:第5140个iter：当前词表词数:9697
+INFO:root:第5140个iter：最高频子词对('我们推进改革的根本', '目的')
+INFO:root:第5150个iter：当前词表词数:9702
+INFO:root:第5150个iter：最高频子词对('中国人民必将创造出', '新的')
+INFO:root:第5160个iter：当前词表词数:9705
+INFO:root:第5160个iter：最高频子词对('世界各国人民在实现各自', '梦想')
+INFO:root:第5170个iter：当前词表词数:9707
+INFO:root:第5170个iter：最高频子词对('努力把我们赖以生存的地', '球')
+INFO:root:第5180个iter：当前词表词数:9709
+INFO:root:第5180个iter：最高频子词对('共同谱写伟大祖国发展的', '时代')
+INFO:root:第5190个iter：当前词表词数:9718
+INFO:root:第5190个iter：最高频子词对('面临', '的')
+INFO:root:第5200个iter：当前词表词数:9728
+INFO:root:第5200个iter：最高频子词对('城', '乡')
+INFO:root:第5210个iter：当前词表词数:9738
+INFO:root:第5210个iter：最高频子词对('常', '见')
+INFO:root:第5220个iter：当前词表词数:9748
+INFO:root:第5220个iter：最高频子词对('201', '5年')
+INFO:root:第5230个iter：当前词表词数:9758
+INFO:root:第5230个iter：最高频子词对('亲', '自')
+INFO:root:第5240个iter：当前词表词数:9768
+INFO:root:第5240个iter：最高频子词对('看', '到了')
+INFO:root:第5250个iter：当前词表词数:9778
+INFO:root:第5250个iter：最高频子词对('外', '来')
+INFO:root:第5260个iter：当前词表词数:9785
+INFO:root:第5260个iter：最高频子词对('办公', '桌上')
+INFO:root:第5270个iter：当前词表词数:9791
+INFO:root:第5270个iter：最高频子词对('停车', '场')
+INFO:root:第5280个iter：当前词表词数:9801
+INFO:root:第5280个iter：最高频子词对('她', '还')
+INFO:root:第5290个iter：当前词表词数:9811
+INFO:root:第5290个iter：最高频子词对('计生', '委')
+INFO:root:第5300个iter：当前词表词数:9821
+INFO:root:第5300个iter：最高频子词对('整', '顿')
+INFO:root:第5310个iter：当前词表词数:9830
+INFO:root:第5310个iter：最高频子词对('合', '唱')
+INFO:root:第5320个iter：当前词表词数:9840
+INFO:root:第5320个iter：最高频子词对('手', '中')
+INFO:root:第5330个iter：当前词表词数:9850
+INFO:root:第5330个iter：最高频子词对('驾', '车')
+INFO:root:第5340个iter：当前词表词数:9860
+INFO:root:第5340个iter：最高频子词对('选择', '在')
+INFO:root:第5350个iter：当前词表词数:9870
+INFO:root:第5350个iter：最高频子词对('极', '其')
+INFO:root:第5360个iter：当前词表词数:9879
+INFO:root:第5360个iter：最高频子词对('%', '以上')
+INFO:root:第5370个iter：当前词表词数:9889
+INFO:root:第5370个iter：最高频子词对('记', '录')
+INFO:root:第5380个iter：当前词表词数:9898
+INFO:root:第5380个iter：最高频子词对('保障', '能力')
+INFO:root:第5390个iter：当前词表词数:9908
+INFO:root:第5390个iter：最高频子词对('被', '子')
+INFO:root:第5400个iter：当前词表词数:9918
+INFO:root:第5400个iter：最高频子词对('临', '近')
+INFO:root:第5410个iter：当前词表词数:9928
+INFO:root:第5410个iter：最高频子词对('10', '元')
+INFO:root:第5420个iter：当前词表词数:9938
+INFO:root:第5420个iter：最高频子词对('阻', '力')
+INFO:root:第5430个iter：当前词表词数:9948
+INFO:root:第5430个iter：最高频子词对('着', '手')
+INFO:root:第5440个iter：当前词表词数:9958
+INFO:root:第5440个iter：最高频子词对('麦', '克')
+INFO:root:第5450个iter：当前词表词数:9967
+INFO:root:第5450个iter：最高频子词对('骨', '骼')
+INFO:root:第5460个iter：当前词表词数:9977
+INFO:root:第5460个iter：最高频子词对('对', '照')
+INFO:root:第5470个iter：当前词表词数:9987
+INFO:root:第5470个iter：最高频子词对('单独', '两')
+INFO:root:第5480个iter：当前词表词数:9993
+INFO:root:第5480个iter：最高频子词对('中央政府严重', '关注')
