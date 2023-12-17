@@ -1,0 +1,5 @@
+2023-06-29 23:50:48,569 - mylogger - DEBUG - debug message
+2023-06-29 23:50:48,569 - mylogger - INFO - info message
+2023-06-29 23:50:48,569 - mylogger - WARNING - warning message
+2023-06-29 23:50:48,570 - mylogger - ERROR - error message
+2023-06-29 23:50:48,570 - mylogger - CRITICAL - critical message

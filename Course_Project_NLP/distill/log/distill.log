@@ -1,0 +1,110 @@
+[2023-06-30 00:46:30,051] Distill_logger [INFO]: global step 16, epoch: 0, loss: 0.00354, speed: 1.63 step/s
+[2023-06-30 00:46:34,953] Distill_logger [INFO]: global step 32, epoch: 0, loss: 0.00316, speed: 3.27 step/s
+[2023-06-30 00:46:39,525] Distill_logger [INFO]: global step 48, epoch: 0, loss: 0.00287, speed: 3.50 step/s
+[2023-06-30 00:46:44,635] Distill_logger [INFO]: global step 64, epoch: 0, loss: 0.00276, speed: 3.13 step/s
+[2023-06-30 00:46:49,743] Distill_logger [INFO]: global step 80, epoch: 0, loss: 0.00271, speed: 3.13 step/s
+[2023-06-30 00:46:54,542] Distill_logger [INFO]: global step 96, epoch: 0, loss: 0.00269, speed: 3.33 step/s
+[2023-06-30 00:46:59,118] Distill_logger [INFO]: global step 112, epoch: 0, loss: 0.00263, speed: 3.50 step/s
+[2023-06-30 00:47:03,764] Distill_logger [INFO]: global step 128, epoch: 0, loss: 0.00257, speed: 3.44 step/s
+[2023-06-30 00:47:36,440] Distill_logger [INFO]: Epoch: 0, cost time: 44 s
+[2023-06-30 00:47:36,441] Distill_logger [INFO]: Evaluation precision: 0.70814, recall: 0.68601, F1: 0.69690
+[2023-06-30 00:47:36,441] Distill_logger [INFO]: best F1 performence has been updated: 0.00000 --> 0.69690
+[2023-06-30 00:47:41,080] Distill_logger [INFO]: global step 144, epoch: 1, loss: 0.00224, speed: 3.74 step/s
+[2023-06-30 00:47:46,077] Distill_logger [INFO]: global step 160, epoch: 1, loss: 0.00239, speed: 3.20 step/s
+[2023-06-30 00:47:50,999] Distill_logger [INFO]: global step 176, epoch: 1, loss: 0.00223, speed: 3.25 step/s
+[2023-06-30 00:47:56,067] Distill_logger [INFO]: global step 192, epoch: 1, loss: 0.00222, speed: 3.16 step/s
+[2023-06-30 00:48:00,864] Distill_logger [INFO]: global step 208, epoch: 1, loss: 0.00223, speed: 3.34 step/s
+[2023-06-30 00:48:05,715] Distill_logger [INFO]: global step 224, epoch: 1, loss: 0.00220, speed: 3.30 step/s
+[2023-06-30 00:48:10,714] Distill_logger [INFO]: global step 240, epoch: 1, loss: 0.00223, speed: 3.20 step/s
+[2023-06-30 00:48:15,829] Distill_logger [INFO]: global step 256, epoch: 1, loss: 0.00221, speed: 3.13 step/s
+[2023-06-30 00:48:49,132] Distill_logger [INFO]: Epoch: 1, cost time: 41 s
+[2023-06-30 00:48:49,133] Distill_logger [INFO]: Evaluation precision: 0.71510, recall: 0.68849, F1: 0.70154
+[2023-06-30 00:48:49,134] Distill_logger [INFO]: best F1 performence has been updated: 0.69690 --> 0.70154
+[2023-06-30 00:48:52,321] Distill_logger [INFO]: global step 272, epoch: 2, loss: 0.00192, speed: 5.59 step/s
+[2023-06-30 00:48:57,015] Distill_logger [INFO]: global step 288, epoch: 2, loss: 0.00215, speed: 3.41 step/s
+[2023-06-30 00:49:01,679] Distill_logger [INFO]: global step 304, epoch: 2, loss: 0.00211, speed: 3.43 step/s
+[2023-06-30 00:49:06,778] Distill_logger [INFO]: global step 320, epoch: 2, loss: 0.00210, speed: 3.14 step/s
+[2023-06-30 00:49:11,934] Distill_logger [INFO]: global step 336, epoch: 2, loss: 0.00209, speed: 3.10 step/s
+[2023-06-30 00:49:16,662] Distill_logger [INFO]: global step 352, epoch: 2, loss: 0.00209, speed: 3.38 step/s
+[2023-06-30 00:49:21,489] Distill_logger [INFO]: global step 368, epoch: 2, loss: 0.00207, speed: 3.32 step/s
+[2023-06-30 00:49:26,411] Distill_logger [INFO]: global step 384, epoch: 2, loss: 0.00208, speed: 3.25 step/s
+[2023-06-30 00:50:02,034] Distill_logger [INFO]: Epoch: 2, cost time: 40 s
+[2023-06-30 00:50:02,035] Distill_logger [INFO]: Evaluation precision: 0.72139, recall: 0.69097, F1: 0.70585
+[2023-06-30 00:50:02,102] Distill_logger [INFO]: best F1 performence has been updated: 0.70154 --> 0.70585
+[2023-06-30 00:50:03,762] Distill_logger [INFO]: global step 400, epoch: 3, loss: 0.00134, speed: 38.60 step/s
+[2023-06-30 00:50:08,292] Distill_logger [INFO]: global step 416, epoch: 3, loss: 0.00203, speed: 3.53 step/s
+[2023-06-30 00:50:12,907] Distill_logger [INFO]: global step 432, epoch: 3, loss: 0.00201, speed: 3.47 step/s
+[2023-06-30 00:50:17,460] Distill_logger [INFO]: global step 448, epoch: 3, loss: 0.00197, speed: 3.51 step/s
+[2023-06-30 00:50:22,076] Distill_logger [INFO]: global step 464, epoch: 3, loss: 0.00196, speed: 3.47 step/s
+[2023-06-30 00:50:26,640] Distill_logger [INFO]: global step 480, epoch: 3, loss: 0.00199, speed: 3.51 step/s
+[2023-06-30 00:50:31,574] Distill_logger [INFO]: global step 496, epoch: 3, loss: 0.00202, speed: 3.25 step/s
+[2023-06-30 00:50:36,515] Distill_logger [INFO]: global step 512, epoch: 3, loss: 0.00204, speed: 3.24 step/s
+[2023-06-30 00:50:41,165] Distill_logger [INFO]: global step 528, epoch: 3, loss: 0.00204, speed: 3.44 step/s
+[2023-06-30 00:51:20,139] Distill_logger [INFO]: Epoch: 3, cost time: 39 s
+[2023-06-30 00:51:20,140] Distill_logger [INFO]: Evaluation precision: 0.71737, recall: 0.69246, F1: 0.70469
+[2023-06-30 00:51:23,811] Distill_logger [INFO]: global step 544, epoch: 4, loss: 0.00203, speed: 4.36 step/s
+[2023-06-30 00:51:28,334] Distill_logger [INFO]: global step 560, epoch: 4, loss: 0.00194, speed: 3.54 step/s
+[2023-06-30 00:51:33,125] Distill_logger [INFO]: global step 576, epoch: 4, loss: 0.00190, speed: 3.34 step/s
+[2023-06-30 00:51:37,519] Distill_logger [INFO]: global step 592, epoch: 4, loss: 0.00199, speed: 3.64 step/s
+[2023-06-30 00:51:42,239] Distill_logger [INFO]: global step 608, epoch: 4, loss: 0.00198, speed: 3.39 step/s
+[2023-06-30 00:51:46,701] Distill_logger [INFO]: global step 624, epoch: 4, loss: 0.00200, speed: 3.59 step/s
+[2023-06-30 00:51:51,611] Distill_logger [INFO]: global step 640, epoch: 4, loss: 0.00195, speed: 3.26 step/s
+[2023-06-30 00:51:56,483] Distill_logger [INFO]: global step 656, epoch: 4, loss: 0.00197, speed: 3.29 step/s
+[2023-06-30 00:52:35,278] Distill_logger [INFO]: Epoch: 4, cost time: 39 s
+[2023-06-30 00:52:35,278] Distill_logger [INFO]: Evaluation precision: 0.73478, recall: 0.68849, F1: 0.71088
+[2023-06-30 00:52:35,280] Distill_logger [INFO]: best F1 performence has been updated: 0.70585 --> 0.71088
+[2023-06-30 00:52:38,042] Distill_logger [INFO]: global step 672, epoch: 5, loss: 0.00174, speed: 7.06 step/s
+[2023-06-30 00:52:42,636] Distill_logger [INFO]: global step 688, epoch: 5, loss: 0.00197, speed: 3.49 step/s
+[2023-06-30 00:52:47,282] Distill_logger [INFO]: global step 704, epoch: 5, loss: 0.00195, speed: 3.44 step/s
+[2023-06-30 00:52:52,181] Distill_logger [INFO]: global step 720, epoch: 5, loss: 0.00191, speed: 3.27 step/s
+[2023-06-30 00:52:57,089] Distill_logger [INFO]: global step 736, epoch: 5, loss: 0.00190, speed: 3.26 step/s
+[2023-06-30 00:53:01,874] Distill_logger [INFO]: global step 752, epoch: 5, loss: 0.00190, speed: 3.34 step/s
+[2023-06-30 00:53:06,935] Distill_logger [INFO]: global step 768, epoch: 5, loss: 0.00190, speed: 3.16 step/s
+[2023-06-30 00:53:11,821] Distill_logger [INFO]: global step 784, epoch: 5, loss: 0.00194, speed: 3.28 step/s
+[2023-06-30 00:53:52,968] Distill_logger [INFO]: Epoch: 5, cost time: 40 s
+[2023-06-30 00:53:52,969] Distill_logger [INFO]: Evaluation precision: 0.72526, recall: 0.69792, F1: 0.71132
+[2023-06-30 00:53:52,971] Distill_logger [INFO]: best F1 performence has been updated: 0.71088 --> 0.71132
+[2023-06-30 00:53:53,936] Distill_logger [INFO]: global step 800, epoch: 6, loss: 0.00195, speed: 25.00 step/s
+[2023-06-30 00:53:58,664] Distill_logger [INFO]: global step 816, epoch: 6, loss: 0.00202, speed: 3.39 step/s
+[2023-06-30 00:54:03,084] Distill_logger [INFO]: global step 832, epoch: 6, loss: 0.00203, speed: 3.63 step/s
+[2023-06-30 00:54:07,642] Distill_logger [INFO]: global step 848, epoch: 6, loss: 0.00197, speed: 3.51 step/s
+[2023-06-30 00:54:12,621] Distill_logger [INFO]: global step 864, epoch: 6, loss: 0.00189, speed: 3.21 step/s
+[2023-06-30 00:54:17,154] Distill_logger [INFO]: global step 880, epoch: 6, loss: 0.00184, speed: 3.53 step/s
+[2023-06-30 00:54:21,848] Distill_logger [INFO]: global step 896, epoch: 6, loss: 0.00186, speed: 3.41 step/s
+[2023-06-30 00:54:26,497] Distill_logger [INFO]: global step 912, epoch: 6, loss: 0.00186, speed: 3.44 step/s
+[2023-06-30 00:54:30,905] Distill_logger [INFO]: global step 928, epoch: 6, loss: 0.00187, speed: 3.64 step/s
+[2023-06-30 00:55:08,181] Distill_logger [INFO]: Epoch: 6, cost time: 38 s
+[2023-06-30 00:55:08,182] Distill_logger [INFO]: Evaluation precision: 0.74016, recall: 0.69940, F1: 0.71920
+[2023-06-30 00:55:08,183] Distill_logger [INFO]: best F1 performence has been updated: 0.71132 --> 0.71920
+[2023-06-30 00:55:12,428] Distill_logger [INFO]: global step 944, epoch: 7, loss: 0.00176, speed: 4.11 step/s
+[2023-06-30 00:55:17,203] Distill_logger [INFO]: global step 960, epoch: 7, loss: 0.00176, speed: 3.36 step/s
+[2023-06-30 00:55:22,017] Distill_logger [INFO]: global step 976, epoch: 7, loss: 0.00176, speed: 3.33 step/s
+[2023-06-30 00:55:26,376] Distill_logger [INFO]: global step 992, epoch: 7, loss: 0.00180, speed: 3.68 step/s
+[2023-06-30 00:55:31,165] Distill_logger [INFO]: global step 1008, epoch: 7, loss: 0.00185, speed: 3.35 step/s
+[2023-06-30 00:55:35,543] Distill_logger [INFO]: global step 1024, epoch: 7, loss: 0.00186, speed: 3.65 step/s
+[2023-06-30 00:55:40,294] Distill_logger [INFO]: global step 1040, epoch: 7, loss: 0.00184, speed: 3.38 step/s
+[2023-06-30 00:55:45,086] Distill_logger [INFO]: global step 1056, epoch: 7, loss: 0.00183, speed: 3.34 step/s
+[2023-06-30 00:56:23,922] Distill_logger [INFO]: Epoch: 7, cost time: 39 s
+[2023-06-30 00:56:23,922] Distill_logger [INFO]: Evaluation precision: 0.73795, recall: 0.69841, F1: 0.71764
+[2023-06-30 00:56:27,416] Distill_logger [INFO]: global step 1072, epoch: 8, loss: 0.00197, speed: 4.58 step/s
+[2023-06-30 00:56:31,700] Distill_logger [INFO]: global step 1088, epoch: 8, loss: 0.00179, speed: 3.74 step/s
+[2023-06-30 00:56:35,623] Distill_logger [INFO]: global step 1104, epoch: 8, loss: 0.00179, speed: 4.08 step/s
+[2023-06-30 00:56:40,544] Distill_logger [INFO]: global step 1120, epoch: 8, loss: 0.00183, speed: 3.25 step/s
+[2023-06-30 00:56:45,135] Distill_logger [INFO]: global step 1136, epoch: 8, loss: 0.00182, speed: 3.49 step/s
+[2023-06-30 00:56:50,091] Distill_logger [INFO]: global step 1152, epoch: 8, loss: 0.00183, speed: 3.23 step/s
+[2023-06-30 00:56:54,665] Distill_logger [INFO]: global step 1168, epoch: 8, loss: 0.00183, speed: 3.51 step/s
+[2023-06-30 00:56:59,453] Distill_logger [INFO]: global step 1184, epoch: 8, loss: 0.00180, speed: 3.34 step/s
+[2023-06-30 00:57:41,478] Distill_logger [INFO]: Epoch: 8, cost time: 39 s
+[2023-06-30 00:57:41,479] Distill_logger [INFO]: Evaluation precision: 0.73776, recall: 0.69494, F1: 0.71571
+[2023-06-30 00:57:42,452] Distill_logger [INFO]: global step 1200, epoch: 9, loss: 0.00120, speed: 16.52 step/s
+[2023-06-30 00:57:47,425] Distill_logger [INFO]: global step 1216, epoch: 9, loss: 0.00158, speed: 3.22 step/s
+[2023-06-30 00:57:52,417] Distill_logger [INFO]: global step 1232, epoch: 9, loss: 0.00176, speed: 3.21 step/s
+[2023-06-30 00:57:57,300] Distill_logger [INFO]: global step 1248, epoch: 9, loss: 0.00175, speed: 3.28 step/s
+[2023-06-30 00:58:01,963] Distill_logger [INFO]: global step 1264, epoch: 9, loss: 0.00178, speed: 3.43 step/s
+[2023-06-30 00:58:06,709] Distill_logger [INFO]: global step 1280, epoch: 9, loss: 0.00179, speed: 3.37 step/s
+[2023-06-30 00:58:11,295] Distill_logger [INFO]: global step 1296, epoch: 9, loss: 0.00178, speed: 3.49 step/s
+[2023-06-30 00:58:16,053] Distill_logger [INFO]: global step 1312, epoch: 9, loss: 0.00178, speed: 3.36 step/s
+[2023-06-30 00:58:20,910] Distill_logger [INFO]: global step 1328, epoch: 9, loss: 0.00180, speed: 3.29 step/s
+[2023-06-30 00:58:58,204] Distill_logger [INFO]: Epoch: 9, cost time: 40 s
+[2023-06-30 00:58:58,204] Distill_logger [INFO]: Evaluation precision: 0.73316, recall: 0.70188, F1: 0.71718
+[2023-06-30 00:58:58,205] Distill_logger [INFO]: [test...]
