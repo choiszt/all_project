@@ -1,0 +1,204 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity cpu_design is
+port(
+	CLR : in std_logic; -- clear signal(1)
+	T3 : in std_logic; -- (83)
+	--SWA, SWB, SWC : in std_logic; --(4~6) controller mode
+	SW: in std_logic_vector(2 downto 0); --(4~6) controller mode(SWCBA)
+	IR : in std_logic_vector(7 downto 4); -- (8~11) IR7~IR4
+	W : in std_logic_vector(3 downto 1); -- (12,15,16) beat
+	C, Z : in std_logic; -- C(2),Z(84)
+	
+	DRW : out std_logic; -- (20) DBUS->SEL3,SEL2
+	PCINC : out std_logic; -- (21) 
+	LPC : out std_logic; -- (22) DBUS -> PC
+	LAR : out std_logic; -- (25) DBUS -> AR
+	PCADD : out std_logic; -- (18) add a number to PC
+	ARINC : out std_logic; -- (24) 
+	SELCTL : out std_logic; -- (52)
+	MEMW : out std_logic; -- (27)
+	STOP : out std_logic; -- (28)
+	LIR : out std_logic; -- (29)
+	LDZ : out std_logic; --(30)
+	LDC : out std_logic; -- (31)
+	CIN : out std_logic; -- (33) carry signal
+	S : out std_logic_vector(3 downto 0); -- (34~37) 
+	M : out std_logic; -- (39) 
+	ABUS : out std_logic; -- (40)
+	SBUS : out std_logic; -- (41)
+	MBUS : out std_logic; -- (44)
+	SHORT : out std_logic; -- (45)
+	LONG : 	out std_logic; -- (46)
+	SEL : out std_logic_vector(3 downto 0) -- (48~51)
+);
+end cpu_design;
+
+architecture arc of cpu_design is
+	signal ST0, SST0 : std_logic;
+begin
+process (SW, CLR, T3, IR, W, C, Z, ST0)
+begin
+	if (CLR = '0') then
+		ST0 <= '0';
+		SST0 <= '0';
+	elsif (T3' event and T3 = '0') then
+		if (SST0='1' ) then
+				ST0<='1';          --ST0
+			end if;
+			if (ST0 = '1' and W(2) = '1' and SW = "100") then 
+				ST0 <= '0';
+			end if;
+		end if;
+	
+	S <= "0000";
+	M <= '0';
+	CIN <= '0';
+	SEL <= "0000";
+	SELCTL <= '0';
+	LIR <= '0';
+	LDC <= '0';
+	LDZ <= '0';
+	LPC <= '0';
+	LAR <= '0';
+	PCINC <= '0';
+	PCADD <= '0';
+	ARINC <= '0';
+	LONG <= '0';
+	SHORT <= '0';
+	ABUS <= '0';
+	MBUS <= '0';
+	SBUS <= '0';
+	DRW <= '0';
+	MEMW <= '0';
+	STOP <= '0';
+	SST0 <= '0';
+	
+	--SW <= (SWC & SWB & SWA);
+	
+	case SW is 
+		when "100" => -- write register
+			SBUS <= '1';
+			SEL(3) <= ST0 ;
+			SEL(2) <= W(2);
+			SEL(1) <= (NOT ST0 AND W(1)) OR (ST0 AND W(2));
+			SEL(0) <= W(1);
+			SELCTL <= '1';
+			DRW <= '1';
+			STOP <= '1';
+			SST0 <= (NOT ST0) AND W(2);
+			
+		when "011" => -- read register
+			SEL(3) <= W(2);
+			SEL(2) <= '0';
+			SEL(1) <= W(2);
+			SEL(0) <= '1';
+			SELCTL <= '1';
+			STOP <= '1';
+			
+		when "010" => -- read memorizer
+			SBUS <= NOT ST0 AND W(1);
+			LAR <= NOT ST0 AND W(1);
+			STOP <= W(1);
+			SST0 <= NOT ST0 AND W(1);
+			SHORT <= W(1);
+			SELCTL <= W(1);
+			MBUS <= ST0 AND W(1);
+			ARINC <= ST0 AND W(1);
+				
+		when "001" => -- write memorizer
+			SBUS <= W(1);
+			LAR <= NOT ST0 AND W(1);
+			STOP <= W(1);
+			SST0 <= NOT ST0 AND W(1);
+			SHORT <= W(1);
+			SELCTL <= W(1);
+			MEMW <= ST0 AND W(1);
+			ARINC <= ST0 AND W(1);
+			
+		when "000" => -- fetch instruction
+			SBUS <= (NOT ST0) AND W(1);
+			LPC <= ((NOT ST0) AND W(1)) OR ((IR(7) AND (NOT IR(6)) AND (NOT IR(5)) AND IR(4)) AND W(2));
+			SHORT <= (NOT ST0) AND W(1);
+			SST0 <= (NOT ST0) AND W(1);
+			--STOP <= (NOT ST0) AND W(1);
+			LIR <= ST0 AND W(1);
+			PCINC <= ST0 AND W(1);			
+			
+			S(3) <= ((((NOT IR(7)) AND IR(6) AND IR(5) AND (NOT IR(4))) 
+				OR (IR(7) AND IR(6) AND (NOT IR(5)) AND (NOT IR(4))) 
+				OR ((NOT IR(7)) AND (NOT IR(6)) AND IR(4)) 
+				OR ((NOT IR(7)) AND (NOT IR(5)) AND IR(4)) 
+				OR ((NOT IR(5)) AND (NOT IR(6)) AND IR(4))) AND W(2)) 
+				OR (((NOT IR(7)) AND IR(6) AND IR(5) AND (NOT IR(4))) AND W(3)) ;
+				
+				S(2) <= (((NOT IR(7)) AND IR(5) AND (NOT IR(4))) 
+				OR (IR(7) AND IR(6) AND (NOT IR(4))) 
+				OR (IR(7) AND (NOT IR(6)) AND IR(4))) AND W(2);
+				
+				S(1) <= ((((NOT IR(7)) AND IR(6) AND (NOT IR(5)) AND IR(4)) 
+				OR (IR(7) AND IR(6) AND (NOT IR(5)) AND (NOT IR(4))) 
+				OR ((NOT IR(6)) AND IR(5) AND IR(4)) 
+				OR ((NOT IR(7)) AND IR(5) AND (NOT IR(4))) 
+				OR (IR(7) AND (NOT IR(6)) AND IR(4))) AND W(2)) 
+				OR (((NOT IR(7)) AND IR(6) AND IR(5) AND (NOT IR(4))) AND W(3));
+				
+				S(0) <= (((NOT IR(7)) AND IR(6) AND IR(5) AND (NOT IR(4))) 
+				OR ((NOT IR(7)) AND (NOT IR(6)) AND IR(4)) 
+				OR (IR(7) AND IR(6) AND (NOT IR(5))) 
+				OR (IR(7) AND (NOT IR(5)) AND IR(4))) AND W(2);
+				
+				CIN <= (((NOT IR(7)) AND (NOT IR(6)) AND (NOT IR(5)) AND IR(4)) 
+				OR (IR(7) AND IR(6) AND (NOT IR(5)) AND (NOT IR(4)))) AND W(2);
+				
+				ABUS <= ((((NOT IR(7)) AND IR(5) AND (NOT IR(4))) 
+				OR ((NOT IR(6)) AND IR(4)) 
+				OR (IR(6) AND (NOT IR(5)))) AND W(2)) 
+				OR (((NOT IR(7)) AND IR(6) AND IR(5) AND (NOT IR(4))) AND W(3));
+				
+				DRW <= ((((NOT IR(7)) AND (NOT IR(6)) AND IR(4)) 
+				OR ((NOT IR(7)) AND (NOT IR(6)) AND IR(5)) 
+				OR ((NOT IR(6)) AND IR(5) AND IR(4)) 
+				OR (IR(6) AND (NOT IR(5)) AND (NOT IR(4))) 
+				OR (IR(7) AND IR(6) AND (NOT IR(5)))) AND W(2)) 
+				OR (((NOT IR(7)) AND IR(6) AND (NOT IR(5)) AND IR(4)) AND W(3));
+				
+				LDZ <= (((NOT IR(7)) AND (NOT IR(6)) AND IR(4))
+				OR ((NOT IR(7)) AND (NOT IR(6)) AND IR(5))
+				OR ((NOT IR(6)) AND IR(5) AND IR(4))
+				OR (IR(6) AND (NOT IR(5)) AND (NOT IR(4)))
+				OR (IR(7) AND IR(6) AND (NOT IR(5)))) AND W(2);
+				
+				LDC <= (((NOT IR(7)) AND (NOT IR(6)) AND (NOT IR(5)) AND IR(4))
+				OR ((NOT IR(7)) AND (NOT IR(6)) AND IR(5) AND (NOT IR(4)))
+				OR (IR(6) AND (NOT IR(5)) AND (NOT IR(4)))) AND W(2);
+				
+				LAR <= (((NOT IR(7)) AND IR(6) AND (NOT IR(5)) AND IR(4)) 
+				OR ((NOT IR(7)) AND IR(6) AND IR(5) AND (NOT IR(4)))) AND W(2);
+				
+				LONG <= (((NOT IR(7)) AND IR(6) AND (NOT IR(5)) AND IR(4)) 
+				OR ((NOT IR(7)) AND IR(6) AND IR(5) AND (NOT IR(4)))) AND W(2);
+				
+				MBUS <= ((NOT IR(7)) AND IR(6) AND (NOT IR(5)) AND IR(4)) AND W(3);
+				
+				MEMW <= ((NOT IR(7)) AND IR(6) AND IR(5) AND (NOT IR(4))) AND W(3);
+
+				PCADD <= ((C AND ((NOT IR(7)) AND IR(6) AND IR(5) AND IR(4))) 
+				OR (Z AND (IR(7) AND (NOT IR(6)) AND (NOT IR(5)) AND (NOT IR(4))))) AND W(2);
+
+				STOP <= (IR(7) AND (NOT IR(6)) AND IR(5) AND (NOT IR(4))) AND W(2);
+
+				M <= ((((NOT IR(7)) AND IR(6) AND IR(5) AND (NOT IR(4))) 
+				OR (IR(6) AND (NOT IR(5)) AND IR(4)) 
+				OR (IR(7) AND (NOT IR(6)) AND IR(4))) AND W(2)) 
+				OR (((NOT IR(7)) AND IR(6) AND IR(5) AND (NOT IR(4))) AND W(3));
+
+			
+				
+		when others => NULL;
+	end case;
+		
+
+end process;
+end arc;
