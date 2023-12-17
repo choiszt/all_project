@@ -1,0 +1,10 @@
+
+mpython:S116Z"VRename this field "Chrome_options" to match the regular expression ^[_a-z][_a-z0-9]*$.(º”½
+jpython:S116B"SRename this field "BUPT_driver" to match the regular expression ^[_a-z][_a-z0-9]*$.(©³©Ş
+ppython:S116A"TRename this field "BEIDA_driver" to match the regular expression ^[_a-z][_a-z0-9]*$.(ßùÜ«şÿÿÿÿ
+lpython:S116@"URename this field "XIDIAN_driver" to match the regular expression ^[_a-z][_a-z0-9]*$.(¤Š——
+lpython:S100I"URename method "get_XIDIAN_driver" to match the regular expression ^[a-z_][a-z0-9_]*$.(®€£´
+ppython:S100L"TRename method "get_BEIDA_driver" to match the regular expression ^[a-z_][a-z0-9_]*$.(Äì¤®ıÿÿÿÿ
+opython:S100O"SRename method "get_BUPT_driver" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜œ’·ÿÿÿÿÿ
+;python:S125^"Remove this commented out code.(¬å„‹úÿÿÿÿ
+<python:S125…"Remove this commented out code.(ÕŸĞÿÿÿÿÿ
