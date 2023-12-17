@@ -1,0 +1,32 @@
+INFO:root:--------------------
+INFO:root:batch_size=256
+INFO:root:k = 5, Mean accuracy: 11.05
+INFO:root:k = 10, Mean accuracy: 12.57
+INFO:root:k = 15, Mean accuracy: 11.90
+INFO:root:k = 20, Mean accuracy: 8.99
+INFO:root:k = 25, Mean accuracy: 11.95
+INFO:root:k = 30, Mean accuracy: 9.13
+INFO:root:--------------------
+INFO:root:batch_size=512
+INFO:root:k = 5, Mean accuracy: 12.26
+INFO:root:k = 10, Mean accuracy: 10.78
+INFO:root:k = 15, Mean accuracy: 9.98
+INFO:root:k = 20, Mean accuracy: 9.22
+INFO:root:k = 25, Mean accuracy: 10.65
+INFO:root:k = 30, Mean accuracy: 10.51
+INFO:root:--------------------
+INFO:root:batch_size=1024
+INFO:root:k = 5, Mean accuracy: 11.86
+INFO:root:k = 10, Mean accuracy: 10.29
+INFO:root:k = 15, Mean accuracy: 10.34
+INFO:root:k = 20, Mean accuracy: 11.99
+INFO:root:k = 25, Mean accuracy: 9.57
+INFO:root:k = 30, Mean accuracy: 8.01
+INFO:root:--------------------
+INFO:root:batch_size=2250
+INFO:root:k = 5, Mean accuracy: 16.02
+INFO:root:k = 10, Mean accuracy: 15.53
+INFO:root:k = 15, Mean accuracy: 14.63
+INFO:root:k = 20, Mean accuracy: 14.59
+INFO:root:k = 25, Mean accuracy: 14.41
+INFO:root:k = 30, Mean accuracy: 14.14

@@ -1,0 +1,10 @@
+INFO:root:--------------------
+INFO:root:batch_size=2250
+INFO:root:k = 10, Mean accuracy: 39.02
+INFO:root:k = 15, Mean accuracy: 39.24
+INFO:root:k = 20, Mean accuracy: 41.74
+INFO:root:k = 25, Mean accuracy: 41.88
+INFO:root:k = 30, Mean accuracy: 42.63
+INFO:root:k = 35, Mean accuracy: 43.24
+INFO:root:k = 40, Mean accuracy: 43.96
+
